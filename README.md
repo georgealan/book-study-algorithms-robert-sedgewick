@@ -4,7 +4,7 @@
      💻 <a href="https://algs4.cs.princeton.edu/home/" alt="Algorithms 4th Edition by Robert Sedgewick Official Site" target="_blank"> Algorithms 4th Edition by Robert Sedgewick </a>
 </h1>
 
-![]()
+![](https://raw.githubusercontent.com/georgealan/book-study-algorithms-robert-sedgewick/main/assets/AlgorithmsBanner.jpg)
 
 <h3 align="center">
     🏆 The textbook Algorithms, 4th Edition by Robert Sedgewick and Kevin Wayne surveys the most important algorithms and data structures in use today. We motivate each algorithm that we address by examining its impact on applications to science, engineering, and industry 💚
