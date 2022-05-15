@@ -1,27 +1,27 @@
 
 
 <h1 align="center">
-     💻 <a href="https://www.onjava8.com/" alt="Bruce Eckel - On Java 8 Book Official Site" target="_blank"> On Java 8 by Bruce Eckel </a>
+     💻 <a href="https://algs4.cs.princeton.edu/home/" alt="Algorithms 4th Edition by Robert Sedgewick Official Site" target="_blank"> Algorithms 4th Edition by Robert Sedgewick </a>
 </h1>
 
-![](https://raw.githubusercontent.com/georgealan/book-study-on-java-8-bruce-eckel/main/assets/OnJava8Banner.jpg)
+![]()
 
 <h3 align="center">
-    🏆 On Java 8 covers version 8 of the Java programming language. Version 2 (December 2021) includes independent supplemental subsections that cover features through Java 17. 💚
+    🏆 The textbook Algorithms, 4th Edition by Robert Sedgewick and Kevin Wayne surveys the most important algorithms and data structures in use today. We motivate each algorithm that we address by examining its impact on applications to science, engineering, and industry 💚
 </h3>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/georgealan/book-study-on-java-8-bruce-eckel?color=%2304D361">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/georgealan/book-study-algorithms-robert-sedgewick?color=%2304D361">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/georgealan/book-study-on-java-8-bruce-eckel">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/georgealan/book-study-algorithms-robert-sedgewick">
   
-  <a href="https://github.com/georgealan/book-study-on-java-8-bruce-eckel/commits/main">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/georgealan/book-study-on-java-8-bruce-eckel">
+  <a href="https://github.com/georgealan/book-study-algorithms-robert-sedgewick/commits/main">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/georgealan/book-study-algorithms-robert-sedgewick">
   </a>
     
    <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
-   <a href="https://github.com/georgealan/book-study-on-java-8-bruce-eckel/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/georgealan/book-study-on-java-8-bruce-eckel?style=social">
+   <a href="https://github.com/georgealan/book-study-algorithms-robert-sedgewick/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/georgealan/book-study-algorithms-robert-sedgewick?style=social">
   </a>
 
   <a href="https://kodyweb.com.br">
