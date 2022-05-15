@@ -49,7 +49,7 @@ Index Content
 
 ## 💻 About this project
 
-This project is about my study path for learning Java, for solidify my knowledge the most deepest I can. I choose many books and special complementary courses to polish my skills in Java programming, and this book is part of it. I'll read it from beginning to end, work in exercises and so on! I'm also reading the book Core Java 12th by Cay Horstmann along with this book here.
+I'll read that book for increase my logical thought in programming problems solving, I begin with this book especially because it's has a less complicated, direct approach and all examples are in Java Language wich let more easy for study with my others resources in Java. When I do finish this book, I'll begin other book in these subject Algorithms, a little more advanced, in my study plans my second reading will be Algorithm Design by Kleinberg and Tardos followed by Introduction to Algorithms 4th Edition by CLRS.
 
 ---
 
