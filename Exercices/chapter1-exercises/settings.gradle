@@ -1,0 +1,3 @@
+rootProject.name = 'chapter1-exercises'
+include 'libs'
+
