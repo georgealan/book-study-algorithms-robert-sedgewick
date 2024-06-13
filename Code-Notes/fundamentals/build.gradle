@@ -10,10 +10,10 @@ repositories {
 }
 
 dependencies {
-    testImplementation 'org.junit.jupiter:junit-jupiter-api:5.9.2'
-    testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine:5.9.2'
-    testImplementation 'org.assertj:assertj-core:3.24.2'
-    testImplementation 'org.mockito:mockito-core:5.1.1'
+    testImplementation 'org.junit.jupiter:junit-jupiter-api:5.10.2'
+    testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine:5.10.2'
+    testImplementation 'org.assertj:assertj-core:3.26.0'
+    testImplementation 'org.mockito:mockito-core:5.12.0'
 
     // Used for fix the issue with external library algs4.jar that don't compile in normal ways.
     implementation fileTree(dir: 'libs', include: ['*.jar'])
